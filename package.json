@@ -45,7 +45,7 @@
     "@babel/runtime": "^7.7.5",
     "autoprefixer": "^9.6.1",
     "file-loader": "^4.2.0",
-    "handlebars": "^4.5.3",
+    "handlebars": "^4.7.7",
     "handlebars-loader": "^1.7.1",
     "image-webpack-loader": "^5.0.0",
     "jquery": "^3.4.1",
